@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sinan 👋
 
-<!--
-**sinan0310/sinan0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Atmospheric Scientist** and a **PhD student at Istanbul Technical University (ITU)**.
 
-Here are some ideas to get you started:
+My work focuses on atmospheric sciences, numerical weather prediction, trajectory and dispersion modeling, data analysis, and scientific computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me
+
+* 🎓 PhD Student at **Istanbul Technical University**
+* 🌦️ Atmospheric Scientist
+* 🌀 Specialized in **WRF (Weather Research and Forecasting Model)**
+* 🌊 Experienced with **OpenDrift** for trajectory and dispersion modeling
+* 🌱 Currently exploring and getting started with **Anemoi**
+* 🗺️ Co-founder and contributor to **[WStatMap](https://wstatmap.com)** — a weather monitoring and analysis platform for exploring real-time meteorological observations, interactive weather maps, and numerical weather prediction data
+* 📊 Interested in numerical weather prediction, atmospheric modeling, scientific data analysis, and visualization
+* 📍 Based in Istanbul, Türkiye
