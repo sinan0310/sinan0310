@@ -2,7 +2,7 @@
 
 I'm an **Atmospheric Scientist** and a **PhD student at Istanbul Technical University (ITU)**.
 
-My work focuses on extreme weather events, numerical weather prediction, data analysis & visualization, and scientific computing.
+My work focuses on **atmospheric sciences, numerical weather prediction, trajectory and dispersion modeling, scientific data analysis, and scientific computing**.
 
 ## 🌍 About Me
 
@@ -10,11 +10,19 @@ My work focuses on extreme weather events, numerical weather prediction, data an
 * 🌦️ Atmospheric Scientist
 * 🌀 Specialized in **WRF (Weather Research and Forecasting Model)**
 * 🌊 Experienced with **OpenDrift** for trajectory and dispersion modeling
-* 🌱 Currently exploring and getting started with **Anemoi**
-* 🗺️ Co-founder and contributor to **[WStatMap](https://wstatmap.com)** — a weather monitoring and analysis platform for exploring real-time meteorological observations, interactive weather maps, and numerical weather prediction data
-* 📊 Interested in numerical weather prediction, atmospheric modeling, scientific data analysis, and visualization
-* 📍 Based in Istanbul, Türkiye
+* 🌱 Currently getting started with **Anemoi**
+* 🗺️ Co-founder and contributor to **[WStatMap](https://wstatmap.com)**
+* 📊 Interested in numerical weather prediction, atmospheric modeling, scientific computing, data analysis, and visualization
+* 📍 Based in **Istanbul, Türkiye**
+
+## 🔬 Research & Academic Profile
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar\&logoColor=white)](https://scholar.google.com.tr/citations?user=4urcSscAAAAJ)
+
+## 🗺️ WStatMap
+
+I'm one of the developers and co-founders of **[WStatMap](https://wstatmap.com)**, a weather monitoring and analysis platform for exploring meteorological observations, interactive weather maps, and numerical weather prediction data.
 
 <a href="https://wstatmap.com">
-  <img src="./figures/wstatmap.png" alt="WStatMap interactive weather map" width="850">
+  <img src="./figures/wstatmap.png" alt="WStatMap interactive weather platform" width="850">
 </a>
