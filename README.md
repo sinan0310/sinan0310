@@ -1,13 +1,11 @@
 # Hi, I'm Sinan 👋
 
-I'm an **Atmospheric Scientist** and a **PhD student at Istanbul Technical University (ITU)**.
-
-My work focuses on **atmospheric sciences, numerical weather prediction, trajectory and dispersion modeling, scientific data analysis, and scientific computing**.
+I'm a **Meteorologist** and a **PhD student at Istanbul Technical University (ITU)**.
 
 ## 🌍 About Me
 
 * 🎓 PhD Student at **Istanbul Technical University**
-* 🌦️ Atmospheric Scientist
+* 🌦️ Meteorologist
 * 🌀 Specialized in **WRF (Weather Research and Forecasting Model)**
 * 🌊 Experienced with **OpenDrift** for trajectory and dispersion modeling
 * 🌱 Currently getting started with **Anemoi**
