@@ -2,7 +2,7 @@
 
 I'm an **Atmospheric Scientist** and a **PhD student at Istanbul Technical University (ITU)**.
 
-My work focuses on atmospheric sciences, numerical weather prediction, trajectory and dispersion modeling, data analysis, and scientific computing.
+My work focuses on atmospheric sciences, numerical weather prediction, data analysis & visualization, and scientific computing.
 
 ## 🌍 About Me
 
